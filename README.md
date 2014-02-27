@@ -1,4 +1,4 @@
-<center>Hello and Welcome to Ice Gaming Romania BugRaport!!!
+<center>Hello and Welcome to Ice Gaming Romania Bug Report!!!
 ====================================================
 
 
